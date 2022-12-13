@@ -39,19 +39,6 @@ https://vendor.handyserv.ca/
 Email: mridul.das.work@gmail.com<br>
 Password: Ab123456</h6>
 
-<b>Backend:</b>
-https://apiserve.handyserv.ca/graphql
-
-<b>Admin Panel:</b>
-https://admin.handyserv.ca/
-<h6>handyserv admin: https://admin.handyserv.ca/login<br>
-admin email: mridul.das.work@gmail.com<br>
-admin Password: Ab123456</h6>
-
-
-<br><p><b>App Documentation:</b></p>
-[Read Locate_Me_Documentation](https://github.com/Emdad5353/Locate-Me/files/8256112/Locate_Me_Documentation.docx)
-
 <div class="column">
     <br><p><b>Mobile App Screenshots:</b></p>
     <img src="AdditionalFiles/App screenshots/1.png" width="23%">
