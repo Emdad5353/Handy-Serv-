@@ -1,4 +1,4 @@
-# handy_serv
+# HandyServ
 
 Handy Serv is a service providing platform(both website and mobile application)<br>
 Order any service any time is the motto<br>
@@ -162,4 +162,3 @@ Password: Ab123456</h6>
     <img src="AdditionalFiles/vendor_ui/privacy.png" width="32%">
     <img src="AdditionalFiles/vendor_ui/support center.png" width="32%">
 </div>
-# Handy-Serv-
